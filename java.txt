@@ -1,0 +1,7 @@
+functional interface contains only one astract method
+in lambda expresion there is no need of class
+we write in main method
+()->{
+
+method
+} 
